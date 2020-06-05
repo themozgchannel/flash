@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/themozgchannel/flash-arbitrage-watcher/static/css/main.514d9873.chunk.css",
+    "main.js": "/themozgchannel/flash-arbitrage-watcher/static/js/main.719429b1.chunk.js",
+    "main.js.map": "/themozgchannel/flash-arbitrage-watcher/static/js/main.719429b1.chunk.js.map",
+    "runtime-main.js": "/themozgchannel/flash-arbitrage-watcher/static/js/runtime-main.0e257995.js",
+    "runtime-main.js.map": "/themozgchannel/flash-arbitrage-watcher/static/js/runtime-main.0e257995.js.map",
+    "static/js/2.d51f1c52.chunk.js": "/themozgchannel/flash-arbitrage-watcher/static/js/2.d51f1c52.chunk.js",
+    "static/js/2.d51f1c52.chunk.js.map": "/themozgchannel/flash-arbitrage-watcher/static/js/2.d51f1c52.chunk.js.map",
+    "index.html": "/themozgchannel/flash-arbitrage-watcher/index.html",
+    "precache-manifest.11eb0649206a39218c35d1ded35e6982.js": "/themozgchannel/flash-arbitrage-watcher/precache-manifest.11eb0649206a39218c35d1ded35e6982.js",
+    "service-worker.js": "/themozgchannel/flash-arbitrage-watcher/service-worker.js",
+    "static/css/main.514d9873.chunk.css.map": "/themozgchannel/flash-arbitrage-watcher/static/css/main.514d9873.chunk.css.map",
+    "static/js/2.d51f1c52.chunk.js.LICENSE.txt": "/themozgchannel/flash-arbitrage-watcher/static/js/2.d51f1c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e257995.js",
+    "static/js/2.d51f1c52.chunk.js",
+    "static/css/main.514d9873.chunk.css",
+    "static/js/main.719429b1.chunk.js"
+  ]
+}
